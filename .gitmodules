@@ -31,3 +31,6 @@
 [submodule "i3-configs"]
 	path = i3-configs
 	url = https://github.com/You-Gao/i3-configs
+[submodule "projects/uva-electives-oracle"]
+	path = projects/uva-electives-oracle
+	url = https://github.com/You-Gao/UVA-Electives-Oracle
