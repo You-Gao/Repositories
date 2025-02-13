@@ -10,3 +10,24 @@
 [submodule "classes@uva/ds-2002"]
 	path = classes@uva/ds-2002
 	url = https://github.com/You-Gao/ds-2002
+[submodule "projects/meal-planner"]
+	path = projects/meal-planner
+	url = https://github.com/You-Gao/meal-planner
+[submodule "projects/uva-event-oracle"]
+	path = projects/uva-event-oracle
+	url = https://github.com/You-Gao/UVA-Event-Oracle
+[submodule "projects/tiger-daemon"]
+	path = projects/tiger-daemon
+	url = https://github.com/You-Gao/tiger-daemon
+[submodule "sandboxes/kaggle"]
+	path = sandboxes/kaggle
+	url = https://github.com/You-Gao/kaggle
+[submodule "sandboxes/playground"]
+	path = sandboxes/playground
+	url = https://github.com/You-Gao/playground
+[submodule "blog"]
+	path = blog
+	url = https://github.com/You-Gao/Blog
+[submodule "i3-configs"]
+	path = i3-configs
+	url = https://github.com/You-Gao/i3-configs
