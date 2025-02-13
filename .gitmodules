@@ -1,0 +1,12 @@
+[submodule "classes@uva/cs-4640"]
+	path = classes@uva/cs-4640
+	url = https://github.com/You-Gao/cs-4640
+[submodule "classes@uva/cs-4630"]
+	path = classes@uva/cs-4630
+	url = https://github.com/You-Gao/cs-4630
+[submodule "classes@uva/ds-3001"]
+	path = classes@uva/ds-3001
+	url = https://github.com/You-Gao/ds-3001
+[submodule "classes@uva/ds-2002"]
+	path = classes@uva/ds-2002
+	url = https://github.com/You-Gao/ds-2002
